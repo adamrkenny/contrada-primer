@@ -1,0 +1,16 @@
+cff-version: 1.1.0
+message: "If you use any supplemental materials, please cite a record of the Zenodo repository, alongside the associated paper."
+authors:
+  - family-names: Kenny
+    given-names: "Adam R."
+    orcid: https://orcid.org/0000-0001-9306-3091
+  - family-names: Fortunato
+    given-names: Laura
+    orcid: https://orcid.org/0000-0001-8546-9497
+title: The palio of Siena and the contemporary contrada system (supplemental materials)
+version: v1.0
+date-released: "2022-01-21"
+identifiers:
+  - description: supplemental materials
+    type: doi
+    value: "doi"
