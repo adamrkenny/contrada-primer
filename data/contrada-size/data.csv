@@ -1,0 +1,18 @@
+contrada,terzo,figure_overall,figure_range_min,figure_range_max,figure_old,figure_young,accuracy,figure_falassi,interview_text
+Bruco,camollia,,2800,2900,,,range,1711,"around 2,800--2,900"
+Drago,camollia,1314,,,,,precise,462,"1,314"
+Giraffa,camollia,1300,,,,,approximate,441,"approximately 1,300"
+Istrice,camollia,,3000,4000,,,range,3871,"3,000--4,000"
+Lupa,camollia,1750,1700,1800,,,range,1039,"approximately 1,700--1,800"
+Oca,camollia,2000,,,,,approximate,1619,"approximately 2,000"
+Aquila,citta,900,,,,,approximate,457,"approximately 900"
+Chiocciola,citta,,,,2080,350,approximate,2221,"approximately 2,430"
+Onda,citta,,1800,2000,,,range,768,"approximately 1,800--2,000"
+Pantera,citta,900,,,,,approximate,484,"approximately 900"
+Selva,citta,,750,800,,,range,535,"approximately 750--800"
+Tartuca,citta,,,,,,absent,1009,NA
+Civetta,san martino,900,,,,,approximate,287,"approximately 900"
+Leocorno,san martino,800,,,,,approximate,291,"approximately 800"
+Nicchio,san martino,3500,,,,,approximate,3233,"approximately 3,500"
+Torre,san martino,3500,,,,,approximate,2040,"approximately 3,500"
+Valdimontone,san martino,2900,,,,,approximate,1350,"approximately 2,900"
