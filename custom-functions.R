@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0
+
 ## includes all custom functions
 
 write_number <- function(number, boundary = 10) {

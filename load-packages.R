@@ -17,7 +17,7 @@ packages <- c(
     "readODS", # reading ods
     "rgdal", # reading spatial data
     "patchwork", # combining plots
-    "ggpubr", # combining plots # FIXME possibly remove
+    "ggpubr", # combining plots 
     "ggspatial", # manipulating spatial data with ggplot2
     "ggrepel", # repel labels in plots
     "ggalluvial", # create sankey diagrams
@@ -32,7 +32,7 @@ packages <- c(
     "fpc", # for clusters
     "dbscan", # for clusters
     "factoextra", # for clusters
-    "EnvStats", # for plotting summaries FIXME to remove
+    "EnvStats", # for plotting summaries
     "sp", # reading spatial data
     "rgeos" # reading spatial data
     )
