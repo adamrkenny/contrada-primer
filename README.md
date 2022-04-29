@@ -1,12 +1,15 @@
 # README #
 
+[![DOI](https://zenodo.org/badge/450492108.svg)](https://zenodo.org/badge/latestdoi/450492108)
+
 Directory contains the data, code, and materials associated with:
 
 > Kenny & Fortunato "The *palio* of Siena and the contemporary *contrada* system" ([doi:10.31235/osf.io/hxyvc](https://doi.org/10.31235/osf.io/hxyvc))
 
 Preprint is hosted on
 [SocArXiv](https://doi.org/10.31235/osf.io/hxyvc). Supplementary
-information can be found alongside the preprint.
+information to the manuscript can be found on
+[OSF](https://osf.io/5jtsk/).
 
 Different licences apply to different files, see
 [LICENSE](./LICENSE.md).
