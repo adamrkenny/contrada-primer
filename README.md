@@ -48,8 +48,8 @@ All code written in `R`. Code was originally written across multiple
 `.Rnw` files that have been
 [purled](https://bookdown.org/yihui/rmarkdown-cookbook/purl.html).
 
-`.R` files are in [scripts](./scripts), and contain code for the *contrada*
-primer ([contrada information](./scripts/contrada-information.R)) and
+`.R` files are in [scripts](./scripts), and contain code for the
+*contrada* primer ([contrada primer](./scripts/contrada-primer.R)) and
 the four research elements ([contrada
 size](./scripts/contrada-size.R),
 [survey](./scripts/survey-concatenated.R),
